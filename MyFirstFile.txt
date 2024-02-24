@@ -2,3 +2,4 @@ Change made by developer 2
 
 Updated by Developer 1
 change made to understand .git
+Modified in master branch
